@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **C, C++, Embedded Linux and Embedded Bare-metal Bar-metal**
+- 💬 Ask me about **C, C++, Embedded Linux and Embedded Bare-metal**
 
 - 📫 How to reach me **eslam.hussein25@gmail.com**
 
