@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Hussein</h1>
-<h3 align="center">a Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Tool Box](https://github.com/EslamHussein25/Tool-Box)
 
