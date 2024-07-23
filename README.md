@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Hussein</h1>
-<h3 align="center">a Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Tool Box](https://github.com/EslamHussein25/Tool-Box)
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eslam-abd-elhamed/](https://www.linkedin.com/in/eslam-abd-elhamed/)
 
-- 💬 Ask me about **C, C++, Embedded Linux and Embedded Bare-metal Bar-metal**
+- 💬 Ask me about **C, C++, Embedded Linux and Embedded Bare-metal**
 
 - 📫 How to reach me **eslam.hussein25@gmail.com**
 
